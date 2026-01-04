@@ -70,6 +70,9 @@ The system supports an *ARMED / DISARMED* state model and triggers visual and au
 ### State Diagram
 ![State Diagram](images/state_diagram.png)
 
+## Demo Video
+A short demonstration video is included to showcase system behavior.
+
 ---
 
 ## ▶️ How to Run
