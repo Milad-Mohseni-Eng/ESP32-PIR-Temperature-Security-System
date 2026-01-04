@@ -59,7 +59,7 @@ The system supports an *ARMED / DISARMED* state model and triggers visual and au
 ## 📷 Visual Documentation
 
 ### Wiring
-![Wiring](images/wiring.jpg)
+![Wiring](images/wiring.jpeg)
 
 ### OLED Output
 ![OLED Display](images/oled_display.jpg)
