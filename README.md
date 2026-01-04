@@ -65,10 +65,10 @@ The system supports an *ARMED / DISARMED* state model and triggers visual and au
 ![OLED Display](images/oled_display.jpg)
 
 ### Circuit Diagram
-![Circuit Diagram](images/circuit_diagram.png)
+![Circuit Diagram](images/circuit_diagram.jpg)
 
 ### State Diagram
-![State Diagram](images/state_diagram.png)
+![State Diagram](images/state_diagram.jpg)
 
 ## Demo Video
 A short demonstration video is included to showcase system behavior.
